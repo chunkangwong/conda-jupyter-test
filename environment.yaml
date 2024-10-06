@@ -1,0 +1,8 @@
+name: conda-test
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - jupyter
+  - selenium
